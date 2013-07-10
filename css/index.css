@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background-color: #F2EEE9;
+	width: 100%;
+}
+.top{
+	width: 100%;
+}
+.booton{
+	width: 100%;
+}
+img.b_e{
+	border-left: 10px solid #000;
+}
+img.b_d{
+	border-right: 10px solid #000;
+}
+img.b_s{
+	border-top: 10px solid #000;
+}
+img.b_i{
+	border-bottom: 10px solid #000;
+}
+img.q_s_e{
+	border-left: 10px solid #000;
+	border-top: 10px solid #000;
+}
+img.q_s_d{
+	border-right: 10px solid #000;
+	border-top: 10px solid #000;
+}
+img.q_i_e{
+	border-left: 10px solid #000;
+	border-bottom: 10px solid #000;
+}
+img.q_i_d{
+	border-right: 10px solid #000;
+	border-bottom: 10px solid #000;
+}
